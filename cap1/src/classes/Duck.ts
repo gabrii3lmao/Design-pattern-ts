@@ -23,11 +23,3 @@ export class Duck {
         this.flyBehavior = fb;
     }
 }
-
-// classes 
-
-
-
-
-
-

@@ -1,6 +1,6 @@
 import { Duck} from "./Duck.js";
 import { FlyNoWay } from "./FlyNoWay.js";
-import { Squeak } from "./Squack.js";
+import { Squeak } from "./Squeak.js";
 
 
 export class RubberDuck extends Duck {

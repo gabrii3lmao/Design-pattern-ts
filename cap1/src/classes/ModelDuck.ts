@@ -7,4 +7,8 @@ export class ModelDuck extends Duck {
     constructor() {
         super(new FlyNoWay(), new Quack());
     }
+
+    display(): void {
+        console.log("i'm a model duck!");
+    }
 }
